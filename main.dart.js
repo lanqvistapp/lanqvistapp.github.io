@@ -82315,7 +82315,7 @@ p.f=!1
 p.r=p.e=!0
 o.N(0,m)
 o=t.N
-p.Q=A.V(["roomName",b,"width","100%","height","100%","enableWelcomePage",!1,"chromeExtensionBanner",null,"userInfo",A.V(["displayName",J.T(c.ga_(c).a.c,"displayName")],o,t.T)],o,t.z)
+p.Q=A.V(["roomName",a,"width","100%","height","100%","enableWelcomePage",!1,"chromeExtensionBanner",null,"userInfo",A.V(["displayName",J.T(c.ga_(c).a.c,"displayName")],o,t.T)],o,t.z)
 A.aE().$1("JitsiMeetingOptions: "+p.j(0))
 s=2
 return A.r(A.Np(p,new A.e4(new A.ard(q,p),new A.are(q,p),new A.arf(q,p),null,A.a([new A.qe("readyToClose",new A.arg())],t.Oz))),$async$w8)
@@ -82822,7 +82822,7 @@ p.f=!1
 p.r=p.e=!0
 o.N(0,m)
 o=t.N
-p.Q=A.V(["roomName",b,"width","100%","height","100%","enableWelcomePage",!1,"chromeExtensionBanner",null,"userInfo",A.V(["displayName",J.T(c.ga_(c).a.c,"displayName")],o,t.T)],o,t.z)
+p.Q=A.V(["roomName",a,"width","100%","height","100%","enableWelcomePage",!1,"chromeExtensionBanner",null,"userInfo",A.V(["displayName",J.T(c.ga_(c).a.c,"displayName")],o,t.T)],o,t.z)
 A.aE().$1("JitsiMeetingOptions: "+p.j(0))
 s=2
 return A.r(A.Np(p,new A.e4(new A.ati(q,p),new A.atj(q,p),new A.atk(q,p),null,A.a([new A.qe("readyToClose",new A.atl())],t.Oz))),$async$wY)
