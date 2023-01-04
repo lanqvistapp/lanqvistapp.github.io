@@ -1,16 +1,16 @@
 {
-   "android_play_store_link":"",
-   "ios_app_store_link":"",
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.lanqvist",
+   "ios_app_store_link":"https://play.google.com/store/apps/details?id=com.lanqvist",
    "sticker_packs":[
       {
          "identifier":"1",
          "name":"2023 Stikerleri",
          "publisher":"Latif Sadiqov",
          "tray_image_file":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
-         "publisher_email":"",
-         "publisher_website":"",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
+         "publisher_email":"proqramci@lanqvist.com",
+         "publisher_website":"https://lanqvist.com",
+         "privacy_policy_website":"https://lanqvist.com",
+         "license_agreement_website":"https://lanqvist.com",
          "stickers":[
             {
                "image_file":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
@@ -47,10 +47,10 @@
          "name":"2023 Stikerler",
          "publisher":"Latif Sadiqov",
          "tray_image_file":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/trayimage.png",
-         "publisher_email":"",
-         "publisher_website":"",
-         "privacy_policy_website":"",
-         "license_agreement_website":"",
+         "publisher_email":"proqramci@lanqvist.com",
+         "publisher_website":"https://lanqvist.com",
+         "privacy_policy_website":"https://lanqvist.com",
+         "license_agreement_website":"https://lanqvist.com",
          "stickers":[
             {
                "image_file":"https://raw.githubusercontent.com/hariiprasad/my-personal/master/2.webp",
